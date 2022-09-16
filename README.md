@@ -1,7 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:a6c1ee&height=300&section=header&text=Woody's%20github&fontSize=90&fontColor=FFFFFF)
-### ✨ 간지나는 백엔드 개발자가 되고 싶은 주니어 
+### ✨ 주니어 백엔드 개발자 신은지
 
 </br>
 
