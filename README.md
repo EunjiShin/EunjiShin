@@ -22,7 +22,7 @@ Blog : https://velog.io/@ej_shin
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80" />
 <img src="https://user-images.githubusercontent.com/38103085/181780616-1a299b1f-990a-468b-b708-dec753ba7851.png" alt="spring-boot" wide="70" height="70">
-<img src="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a67daec196.svg" alt= "nest-js" wide="80" height="80">
+<img src="https://user-images.githubusercontent.com/38103085/201467463-63243cca-c2b4-4fef-8370-1e9327c50c84.svg" alt= "nest-js" wide="80" height="80">
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="80" height="80" />
 </div> </br>
