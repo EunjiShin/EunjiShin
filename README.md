@@ -1,7 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:a6c1ee&height=300&section=header&text=Woody's%20github&fontSize=90&fontColor=FFFFFF)
-### ✨ 주니어 백엔드 개발자 신은지
+### ✨ 최적화 하는 개발자 신은지
 
 </br>
 
