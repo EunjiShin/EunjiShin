@@ -7,7 +7,8 @@
 
  ### 🌱 Info 
 Email: sej.gm3@gmail.com </br>
-Blog : https://velog.io/@ej_shin 
+Blog : https://hogwart-scholars.tistory.com/ </br>
+Second Blog : https://velog.io/@ej_shin 
 
 </br>
 
@@ -40,11 +41,13 @@ Blog : https://velog.io/@ej_shin
 
 ![EunjiShin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunjiShin&show_icons=true&theme=buefy)
 
-</div>
+</br></br>
 
 ## Recent blog posts
-[Python+GitHub Actions: 깃허브 프로필에 티스토리 글 목록 연동하기](https://blog.stdio.dev/59) - Jul 19, 2020<br>
-[타이젠 스튜디오(sdb)와 워치 연결하기](https://blog.stdio.dev/58) - Jul 17, 2020<br>
-[Windows 10 버전 2004에 WSL2(Linux용 Windows 하위 시스템) 설치](https://blog.stdio.dev/56) - May 30, 2020<br>
-[삼성 U32J590/U32J592 색재현율/HDCP 2.2(Netflix 4K) 지원 여부](https://blog.stdio.dev/55) - Sep 25, 2019<br>
-[빠른 Python 정리 11: 반복](https://blog.stdio.dev/54) - Jun 01, 2019<br>
+
+</div>
+[[Kotlin] 코틀린을 쌈싸먹어 보자 (1)](https://hogwart-scholars.tistory.com/entry/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%84-%EC%8C%88%EC%8B%B8%EB%A8%B9%EC%96%B4-%EB%B3%B4%EC%9E%90-1) - Jun 07, 2023<br>
+[[OS] Spin Lock (스핀락)에 대해 알아보자](https://hogwart-scholars.tistory.com/entry/OS-Spin-Lock-%EC%8A%A4%ED%95%80%EB%9D%BD%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) - May 31, 2023<br>
+[[Spring Boot] count를 구현하는 5가지 방법](https://hogwart-scholars.tistory.com/entry/Spring-Boot-count%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95) - May 24, 2023<br>
+[[Spring Boot] ConstraintValidator를 이용해 나만의 validator annotation 만들기](https://hogwart-scholars.tistory.com/entry/Spring-Boot-ConstraintValidator%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%82%98%EB%A7%8C%EC%9D%98-validator-%EB%A7%8C%EB%93%A4%EA%B8%B0) - May 15, 2023<br>
+[[Java] 맥북에서 자바 버전 여러 개 돌려쓰기](https://hogwart-scholars.tistory.com/entry/Java-%EB%A7%A5%EB%B6%81%EC%97%90%EC%84%9C-%EC%9E%90%EB%B0%94-%EB%B2%84%EC%A0%84-%EC%97%AC%EB%9F%AC-%EA%B0%9C-%EB%8F%8C%EB%A0%A4%EC%93%B0%EA%B8%B0) - May 01, 2023<br>
