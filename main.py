@@ -1,6 +1,6 @@
 import feedparser, datetime
 
-tistory_blog_uri="https://blog.stdio.dev" #Your blog address here
+tistory_blog_uri="https://hogwart-scholars.tistory.com/" #Your blog address here
 feed = feedparser.parse(tistory_blog_uri+"/rss")
 
 markdown_text = """<div align="center">
@@ -12,7 +12,8 @@ markdown_text = """<div align="center">
 
  ### 🌱 Info 
 Email: sej.gm3@gmail.com </br>
-Blog : https://velog.io/@ej_shin 
+Blog : https://hogwart-scholars.tistory.com/ </br>
+Second Blog : https://velog.io/@ej_shin 
 
 </br>
 
