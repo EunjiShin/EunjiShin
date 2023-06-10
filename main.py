@@ -46,15 +46,17 @@ Second Blog : https://velog.io/@ej_shin
 
 ![EunjiShin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunjiShin&show_icons=true&theme=buefy)
 
-</div>
+</br></br>
 
 ## Recent blog posts
+
+</div>
 """ # list of blog posts will be appended here
 
 lst = []
 
 
-for i in feed['entries']:
+for i in feed['entries'][:5]:
     dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
     markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
     print(i['link'], i['title'])
