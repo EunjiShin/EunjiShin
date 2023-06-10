@@ -48,7 +48,7 @@ Second Blog : https://velog.io/@ej_shin
 
 </br></br>
 
-## Recent blog posts
+## ✏️ Recent blog posts
 
 """ # list of blog posts will be appended here
 
