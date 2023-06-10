@@ -43,7 +43,7 @@ Second Blog : https://velog.io/@ej_shin
 
 </br></br>
 
-## Recent blog posts
+## ✏️ Recent blog posts
 
 [[Kotlin] 코틀린을 쌈싸먹어 보자 (1)](https://hogwart-scholars.tistory.com/entry/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%84-%EC%8C%88%EC%8B%B8%EB%A8%B9%EC%96%B4-%EB%B3%B4%EC%9E%90-1) - Jun 07, 2023<br>
 [[OS] Spin Lock (스핀락)에 대해 알아보자](https://hogwart-scholars.tistory.com/entry/OS-Spin-Lock-%EC%8A%A4%ED%95%80%EB%9D%BD%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) - May 31, 2023<br>
