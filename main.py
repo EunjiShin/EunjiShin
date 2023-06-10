@@ -50,7 +50,6 @@ Second Blog : https://velog.io/@ej_shin
 
 ## Recent blog posts
 
-</div>
 """ # list of blog posts will be appended here
 
 lst = []
