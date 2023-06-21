@@ -45,8 +45,8 @@ Second Blog : https://velog.io/@ej_shin
 
 ## ✏️ Recent blog posts
 
+[[Spring Boot] 자바 스프링에서 처리율 제한 기능을 구현하는 4가지 방법](https://hogwart-scholars.tistory.com/entry/Spring-Boot-%EC%9E%90%EB%B0%94-%EC%8A%A4%ED%94%84%EB%A7%81%EC%97%90%EC%84%9C-%EC%B2%98%EB%A6%AC%EC%9C%A8-%EC%A0%9C%ED%95%9C-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-4%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95) - Jun 21, 2023<br>
 [[Spring Boot] Jsoup으로 OG태그 메타 데이터 크롤링하기](https://hogwart-scholars.tistory.com/entry/Spring-Boot-Jsoup%EC%9C%BC%EB%A1%9C-OG%ED%83%9C%EA%B7%B8-%EB%A9%94%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EA%B8%B0) - Jun 14, 2023<br>
 [[Kotlin] 코틀린을 쌈싸먹어 보자 (1)](https://hogwart-scholars.tistory.com/entry/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%84-%EC%8C%88%EC%8B%B8%EB%A8%B9%EC%96%B4-%EB%B3%B4%EC%9E%90-1) - Jun 07, 2023<br>
 [[OS] Spin Lock (스핀락)에 대해 알아보자](https://hogwart-scholars.tistory.com/entry/OS-Spin-Lock-%EC%8A%A4%ED%95%80%EB%9D%BD%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) - May 31, 2023<br>
 [[Spring Boot] count를 구현하는 5가지 방법](https://hogwart-scholars.tistory.com/entry/Spring-Boot-count%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95) - May 24, 2023<br>
-[[Spring Boot] ConstraintValidator를 이용해 나만의 validator annotation 만들기](https://hogwart-scholars.tistory.com/entry/Spring-Boot-ConstraintValidator%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%82%98%EB%A7%8C%EC%9D%98-validator-%EB%A7%8C%EB%93%A4%EA%B8%B0) - May 15, 2023<br>
