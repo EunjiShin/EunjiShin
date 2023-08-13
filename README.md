@@ -16,13 +16,11 @@ Second Blog : https://velog.io/@ej_shin
 <p align="center">
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
+ <img src="https://github.com/EunjiShin/django-drf-boilerplate/assets/38103085/003628f4-78c0-4727-8806-dd38f9f5630e" alt="kotlin" wide="70" height="80"/>
+<img src="https://user-images.githubusercontent.com/38103085/181780616-1a299b1f-990a-468b-b708-dec753ba7851.png" alt="spring-boot" wide="70"height="80"/>
 </div> </br>
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80" />
-<img src="https://user-images.githubusercontent.com/38103085/181780616-1a299b1f-990a-468b-b708-dec753ba7851.png" alt="spring-boot" wide="70" height="70">
 <img src="https://user-images.githubusercontent.com/38103085/201467463-63243cca-c2b4-4fef-8370-1e9327c50c84.svg" alt= "nest-js" wide="80" height="80">
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="80" height="80" />
