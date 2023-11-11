@@ -45,7 +45,7 @@ Second Blog : https://velog.io/@ej_shin
 
 ## ✏️ Recent blog posts
 
-[[클린 코드] 완전 생성자와 값 객체로 안전하게 클래스 관리하기](https://hogwart-scholars.tistory.com/entry/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%EC%99%84%EC%A0%84-%EC%83%9D%EC%84%B1%EC%9E%90%EC%99%80-%EA%B0%92-%EA%B0%9D%EC%B2%B4%EB%A1%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%ED%81%B4%EB%9E%98%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) - Nov 05, 2023<br>
+[[클린 코드] 클래스 응집도의 중요성, 그리고 완전 생성자와 값 객체](https://hogwart-scholars.tistory.com/entry/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%EC%99%84%EC%A0%84-%EC%83%9D%EC%84%B1%EC%9E%90%EC%99%80-%EA%B0%92-%EA%B0%9D%EC%B2%B4%EB%A1%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%ED%81%B4%EB%9E%98%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) - Nov 05, 2023<br>
 [[Spring Boot] AOP와 Spring AOP를 뜯어보자 (feat. Proxy, @Transactional)](https://hogwart-scholars.tistory.com/entry/Spring-Boot-AOP%EC%99%80-Spring-AOP%EB%A5%BC-%EB%9C%AF%EC%96%B4%EB%B3%B4%EC%9E%90-feat-Proxy) - Oct 29, 2023<br>
 [[MySQL] MySQL의 인덱스 탐구하기 1 (feat. B-Tree)](https://hogwart-scholars.tistory.com/entry/MySQL-MySQL%EC%9D%98-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%83%90%EA%B5%AC%ED%95%98%EA%B8%B0-1-feat-B-Tree) - Oct 14, 2023<br>
 [[MySQL] 트랜잭션, ACID와 MySQL이 트랜잭션의 ACID를 보장하는 방법들](https://hogwart-scholars.tistory.com/entry/MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-ACID%EC%99%80-MySQL%EC%9D%B4-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%98-ACID%EB%A5%BC-%EB%B3%B4%EC%9E%A5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4) - Oct 08, 2023<br>
