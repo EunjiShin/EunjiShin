@@ -8,6 +8,7 @@
  ### 🌱 Info 
 Email: sej.gm3@gmail.com </br>
 Blog : https://hogwart-scholars.tistory.com/ </br>
+Second Blog : https://velog.io/@ej_shin 
 
 </br>
 
