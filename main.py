@@ -6,14 +6,13 @@ feed = feedparser.parse(tistory_blog_uri+"/rss")
 markdown_text = """<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:a6c1ee&height=300&section=header&text=Woody's%20github&fontSize=90&fontColor=FFFFFF)
-### ✨ 최적화 하는 개발자 신은지
+### 백엔드 개발하는 우디에요 👋
 
 </br>
 
  ### 🌱 Info 
 Email: sej.gm3@gmail.com </br>
 Blog : https://hogwart-scholars.tistory.com/ </br>
-Second Blog : https://velog.io/@ej_shin 
 
 </br>
 
