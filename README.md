@@ -44,8 +44,3 @@ Blog : https://hogwart-scholars.tistory.com/ </br>
 
 ## ✏️ Recent blog posts
 
-[[Cache/Spring] EhCache vs Cache2k vs Caffeine 캐시 비교하기](https://hogwart-scholars.tistory.com/entry/CacheSpring-EhCache-vs-Cache2k-vs-Caffeine-%EC%BA%90%EC%8B%9C-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0) - Aug 12, 2024<br>
-[[Spring] 캐시란? + Spring Boot 내장 캐시 사용하기](https://hogwart-scholars.tistory.com/entry/Spring-%EC%BA%90%EC%8B%9C%EB%9E%80-Spring-Boot-%EB%82%B4%EC%9E%A5-%EC%BA%90%EC%8B%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) - Jul 29, 2024<br>
-[[Java/Spring] DIP 활용해서 Testability 높이기](https://hogwart-scholars.tistory.com/entry/Java-DIP-%ED%99%9C%EC%9A%A9%ED%95%B4%EC%84%9C-Testability-%EB%86%92%EC%9D%B4%EA%B8%B0) - Jul 14, 2024<br>
-[[디프만] 15기 Server 파트 최종 합격 후기](https://hogwart-scholars.tistory.com/entry/%EB%94%94%ED%94%84%EB%A7%8C-15%EA%B8%B0-Server-%ED%8C%8C%ED%8A%B8-%EC%B5%9C%EC%A2%85-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0) - Jun 11, 2024<br>
-[[2024] 스프링 캠프 후기](https://hogwart-scholars.tistory.com/entry/2024-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%BA%A0%ED%94%84-%ED%9B%84%EA%B8%B0) - May 27, 2024<br>
